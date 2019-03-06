@@ -1,6 +1,6 @@
 ## Installation
 
-> **Requires [PHP 7.1.3+](https://php.net/releases/)**
+> **Requires [PHP 7.2+](https://php.net/releases/)**
 
 ```bash
 git clone https://github.com/algolia/algoliasearch-client-php-playground
