@@ -10,7 +10,7 @@
     ],
     "require": {
         "php": "^7.2",
-        "algolia/algoliasearch-client-php": "2.0.x-dev",
+        "algolia/algoliasearch-client-php": "^2.2",
         "nunomaduro/collision": "^2.1",
         "symfony/var-dumper": "^4.1"
     },
